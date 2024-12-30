@@ -103,4 +103,9 @@ http://127.0.0.1:8000
 
 Aplikasi seharusnya sudah berjalan dan kamu dapat langsung mempelajari fitur - fitur yang ada.
 
+### Login
+Berikut akses login untuk masuk ke admin website
+- email: reynaldyrahmat@gmail.com
+- password: 12345
+
 ### Selamat Belajar 🙂
